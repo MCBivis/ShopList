@@ -39,3 +39,4 @@ lerna-debug.log*
 
 # Prisma
 server/prisma/migrations/
+.DS_Store
